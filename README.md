@@ -1,15 +1,16 @@
 ### 
 <div align="center"> 
-<img src="https://i.imgur.com/f4ml3OQ.png" width="600">
+<a href="https://readymag.website/u2268447706/sammycabello/" target="_blank"><img src="https://c-p.rmcdn1.net/659aab22043b7d0044a0aeee/4618759/Image-0159cab0-2ad8-4e9f-b37f-5c6c364a0580.gif" width="500"></a>
+
 <br>
 <br>
 
 <div align="center"> 
 
-<div align="center">Hi high! Name's Sammy. Currently learning how to make this dev stuff happen. Still a visual comms. </div>  
+<div align="center">Hi high! Name's Sammy. Currently learning how to figure out how to make this dev stuff happen. Still a visual comms. </div>  
 
 
-  
+  <br>
 
 🔭 I’m currently working on my portfolio.  
   
