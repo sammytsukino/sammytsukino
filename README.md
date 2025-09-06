@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="https://res.cloudinary.com/dsy30p7gf/image/upload/v1757160220/sammynegativecolor_omwbrz.png" width="600"/>
+<img src="https://res.cloudinary.com/dsy30p7gf/image/upload/v1757183846/Recurso_5sammynegative_dkfi1u.png" width="600"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ff78b5&center=true&vCenter=true&width=600&lines=Creative+Developer+%26+Designer;Code+%2B+Creativity+%2B+Aesthetics;Building+Playful+Web+Experiences;Exploring+Digital+Art+%26+Game+Studies)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 <div align="center">
 
 🎨 **Creative Developer** mixing **code, creativity, and aesthetics**  
-🎓 Background: **Web Development (DAW)** + **Advertising & PR**  
+🎓 Background: **Web App Development (DAW)** + **Advertising & PR**  
 ✨ Speciality: **Playful web experiences** & **digital identities**  
 🌸 Current Vibe: Building **kawaii projects** & exploring **cyber-aesthetics**
 
@@ -27,7 +27,7 @@
 <table>
 <tr>
 <td>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> <strong>Web App Development -Certificate of Higher Education (HNC)</strong><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20"/> <strong>Web App Development - Certificate of Higher Education (HNC)</strong><br>
 <sub>🎓 Warming up for my senior year</sub>
 </td>
 <td>
