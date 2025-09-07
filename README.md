@@ -159,6 +159,7 @@
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|---------|
 | 🧙‍♀️ **[CHAR/ISMA](https://github.com/sammytsukino/char-isma)** | ⭐ **FEATURED** - Transform images/videos into ASCII & pixel art with brutalist aesthetics | HTML, CSS, JS, Canvas API | ✅ Live |
+| 😢 **[happytravel](https://github.com/sammytsukino/happytravel)** | A landing page for a fictional travel agency offering melancholic journeys instead of sunny escapes | HTML, CSS | ✅ Live |
 | 💔 **INSTADRAMA** | Sassy Instagram unfollower detector with coquette vibes | JavaScript, API Integration | 🚧 In Progress |
 | 🎀 **20 Playful Projects** | Kawaii remix of 50 Projects challenge for DAW practice | HTML, CSS, JS | 📋 Planning |
 
